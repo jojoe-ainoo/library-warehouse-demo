@@ -1,0 +1,7 @@
+Pandas
+Numpy
+sql Alchemy
+Attoti
+pycog2
+mlxtend
+Streamlit
